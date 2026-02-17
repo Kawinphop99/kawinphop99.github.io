@@ -1,4 +1,4 @@
-# kawinphop99.github.io
+# Kawinphop99.github.io
 
 Hello World, My name is Kawinphop Tuddaung
 
